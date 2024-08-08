@@ -1,0 +1,2 @@
+# CatizenBot
+CatizenBot App AutoClicker
